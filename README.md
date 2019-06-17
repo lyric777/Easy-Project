@@ -28,9 +28,9 @@
 ![树结构](https://github.com/lyric777/Easy-Project/blob/master/pics/6.PNG)
 
 编辑：
-![编辑](https://github.com/lyric777/Easy-Project/blob/master/pics/7.PNG)
+![编辑](https://github.com/lyric777/Easy-Project/blob/master/pics/7.png)
 
 查看：
-![查看](https://github.com/lyric777/Easy-Project/blob/master/pics/8.PNG)
+![查看](https://github.com/lyric777/Easy-Project/blob/master/pics/8.png)
 
 
